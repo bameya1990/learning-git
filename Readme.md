@@ -2,4 +2,4 @@
 
 Important steps for git workflow:
 
-1. Initialize 
+Making some minor changes for practice 
